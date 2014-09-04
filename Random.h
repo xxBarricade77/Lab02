@@ -3,7 +3,7 @@
 
 class Random
 {
-   private:
+   private:   //comment
       Random();
       void randomInit();
 

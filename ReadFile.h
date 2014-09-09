@@ -17,7 +17,7 @@ class ReadFile
    bool _eof;
    bool closed;
 
-   public:	
+   public:	// public
    //constructor	
    ReadFile(const char* file_name);
    //destructor

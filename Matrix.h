@@ -7,7 +7,7 @@ class Matrix
    private:
       int rows;
       int cols;
-
+	// Abdulhamed
       double* mat;
 
    public:

@@ -8,11 +8,11 @@ using namespace std;
 
 class ReadFile
 {
-<<<<<<< HEAD
+
    private:             //I LOVE YOU
-=======
+
    private: // private section
->>>>>>> a9d45806c365141a1a566cb54f27a3861dbd8885
+
    ifstream input_file;
    bool _eof;
    bool closed;
@@ -27,6 +27,8 @@ class ReadFile
    bool eof();
    void close();	
 
+
+   int fool();
 };
 
 #endif
